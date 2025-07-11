@@ -84,7 +84,7 @@ Each report serves a decision-making purpose:
 ## Why This Project Stands Out
 
 Most Excel projects stop at the visuals.  
-This one goes further — aligning reports with actual **business questions**.
+This one goes further, aligning reports with actual **business questions**.
 
 It’s not built to impress.  
 It’s built to be used.
