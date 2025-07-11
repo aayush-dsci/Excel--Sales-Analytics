@@ -23,7 +23,7 @@ It connects Excel + Power BI work to real business use cases:
 |--------|------------------|
 | **Top 5 Countries** | Where sales are strongest and why it matters |
 | **Top & Bottom Products** | Which SKUs need promotion or phase-out |
-| **New Products 2021** | Did new launches perform well? |
+| **New Products 2021** | How many products were launched in 2021? |
 | **Division-Level Growth** | Which business units are scaling fastest |
 | **Sales vs Targets** | Which countries underperformed vs plan |
 
